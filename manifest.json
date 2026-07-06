@@ -1,0 +1,20 @@
+{
+  "name": "Geotecnia1",
+  "short_name": "Geotecnia1",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1E3A8A",
+  "background_color": "#FFFFFF",
+  "icons": [
+    {
+      "src": "/img/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "lang": "pt",
+  "orientation": "portrait-secondary",
+  "scope": "/",
+  "description": "Serviços geotécnicos profissionais em São José dos Campos, Brasil. Estudos de solo, ensaios e consultoria técnica.",
+  "id": "/sao-jose-dos-campos-6154"
+}

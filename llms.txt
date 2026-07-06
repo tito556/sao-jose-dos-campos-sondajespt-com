@@ -1,0 +1,51 @@
+# Geotecnia1 — Sao Jose dos Campos
+
+> Geotechnical engineering services in Sao Jose dos Campos, Brasil.
+
+## Services
+- [Ancoragens](https://sao-jose-dos-campos.sondajespt.com/ancoragens/)
+- [Cbr Viario](https://sao-jose-dos-campos.sondajespt.com/cbr-viario/)
+- [Colunas Brita](https://sao-jose-dos-campos.sondajespt.com/colunas-brita/)
+- [Densidade Cone Areia](https://sao-jose-dos-campos.sondajespt.com/densidade-cone-areia/)
+- [Ensaio Cpt](https://sao-jose-dos-campos.sondajespt.com/ensaio-cpt/)
+- [Ensaios Proctor](https://sao-jose-dos-campos.sondajespt.com/ensaios-proctor/)
+- [Escavacoes](https://sao-jose-dos-campos.sondajespt.com/escavacoes/)
+- [Escavacoes Profundas](https://sao-jose-dos-campos.sondajespt.com/escavacoes-profundas/)
+- [Estabilidade Taludes](https://sao-jose-dos-campos.sondajespt.com/estabilidade-taludes/)
+- [Estacas](https://sao-jose-dos-campos.sondajespt.com/estacas/)
+- [Fundacoes](https://sao-jose-dos-campos.sondajespt.com/fundacoes/)
+- [Geotecnia Viaria](https://sao-jose-dos-campos.sondajespt.com/geotecnia-viaria/)
+- [Granulometria](https://sao-jose-dos-campos.sondajespt.com/granulometria/)
+- [Injecoes](https://sao-jose-dos-campos.sondajespt.com/injecoes/)
+- [Investigacao](https://sao-jose-dos-campos.sondajespt.com/investigacao/)
+- [Isolamento Sismico](https://sao-jose-dos-campos.sondajespt.com/isolamento-sismico/)
+- [Lab In Situ](https://sao-jose-dos-campos.sondajespt.com/lab-in-situ/)
+- [Laboratorio](https://sao-jose-dos-campos.sondajespt.com/laboratorio/)
+- [Limites Atterberg](https://sao-jose-dos-campos.sondajespt.com/limites-atterberg/)
+- [Liquefacao](https://sao-jose-dos-campos.sondajespt.com/liquefacao/)
+- [Masw](https://sao-jose-dos-campos.sondajespt.com/masw/)
+- [Melhoramento](https://sao-jose-dos-campos.sondajespt.com/melhoramento/)
+- [Microzoneamento Sismico](https://sao-jose-dos-campos.sondajespt.com/microzoneamento-sismico/)
+- [Monitoramento Escavacoes](https://sao-jose-dos-campos.sondajespt.com/monitoramento-escavacoes/)
+- [Muros Contencao](https://sao-jose-dos-campos.sondajespt.com/muros-contencao/)
+- [Pavimento Flexivel](https://sao-jose-dos-campos.sondajespt.com/pavimento-flexivel/)
+- [Pavimento Rigido](https://sao-jose-dos-campos.sondajespt.com/pavimento-rigido/)
+- [Permeabilidade In Situ](https://sao-jose-dos-campos.sondajespt.com/permeabilidade-in-situ/)
+- [Pocos Inspecao](https://sao-jose-dos-campos.sondajespt.com/pocos-inspecao/)
+- [Radiers](https://sao-jose-dos-campos.sondajespt.com/radiers/)
+- [Refracao Sismica](https://sao-jose-dos-campos.sondajespt.com/refracao-sismica/)
+- [Resistividade](https://sao-jose-dos-campos.sondajespt.com/resistividade/)
+- [Sapatas](https://sao-jose-dos-campos.sondajespt.com/sapatas/)
+- [Sismica](https://sao-jose-dos-campos.sondajespt.com/sismica/)
+- [Sondagens Spt](https://sao-jose-dos-campos.sondajespt.com/sondagens-spt/)
+- [Taludes](https://sao-jose-dos-campos.sondajespt.com/taludes/)
+- [Triaxial](https://sao-jose-dos-campos.sondajespt.com/triaxial/)
+- [Tuneis Solo Mole](https://sao-jose-dos-campos.sondajespt.com/tuneis-solo-mole/)
+- [Vibrocompactacao](https://sao-jose-dos-campos.sondajespt.com/vibrocompactacao/)
+
+## Contact
+- Website: https://sao-jose-dos-campos.sondajespt.com/
+
+## About
+This site provides geotechnical engineering services in Sao Jose dos Campos, Brasil.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
